@@ -3,7 +3,7 @@
 //Questions for easy mode
 var questionsEasy = [
     {
-        question : "If a person eat 3 oranges a day,how many oranges needed for 5 days? ",
+        question : "If a girl eat 3 oranges a day,how many oranges needed for 5 days? ",
 
         A : "15 Oranges",
         B : "12 Oranges",
