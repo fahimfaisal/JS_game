@@ -6,5 +6,4 @@ Every time there will be three options to choose for the answer. There is a time
 
 This type of game doesn’t only involve mathematics but also logic, so a person can play this game to improve his logical reasoning and understand problems as a whole. 
 
-                                                                          # Home Page
-
+                                                                      <h1> Home Page </h1>
