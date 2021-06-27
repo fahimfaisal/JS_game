@@ -7,3 +7,16 @@ Every time there will be three options to choose for the answer. There is a time
 This type of game doesn’t only involve mathematics but also logic, so a person can play this game to improve his logical reasoning and understand problems as a whole. 
 
 <h1> Home Page </h1>
+
+![homepage](https://user-images.githubusercontent.com/17762036/123551855-f044ea00-d7b6-11eb-8748-38473c89bb62.JPG)
+
+<h1> Game Level </h1>
+
+![Level](https://user-images.githubusercontent.com/17762036/123551875-081c6e00-d7b7-11eb-81cf-9e8531daf752.JPG)
+
+<h1>End Game</h1>
+
+![End game](https://user-images.githubusercontent.com/17762036/123551889-18cce400-d7b7-11eb-9ecc-a54af742326b.JPG)
+
+
+
