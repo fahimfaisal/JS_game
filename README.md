@@ -5,3 +5,5 @@ The game mathologic is a type of Educational game where involves logical maths t
 Every time there will be three options to choose for the answer. There is a timer for 15 seconds. So, the user must answer the question in 15 seconds nor the answer will be considered as incorrect. There is a progress bar where user can see how many correct answers he scored and the bar changes colour to red if answer is wrong or green if answer is correct. At the end of the game, it shows the score in percentage.
 
 This type of game doesn’t only involve mathematics but also logic, so a person can play this game to improve his logical reasoning and understand problems as a whole. 
+
+![Homepage](https://user-images.githubusercontent.com/17762036/123551176-08ffd080-d7b4-11eb-9806-6700b35e8b17.JPG)
